@@ -9,10 +9,10 @@ npm install - composer install - первым делом
 
 ### 1. Клонирование и установка
 ```bash
-git clone https://github.com/your-repo/backend.git
+git clone https://github.com/ktotopes/tonerTest
 ```
 ```bash
-cd backend
+cd tonerTest
 ```
 ```bash
 composer install
