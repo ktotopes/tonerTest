@@ -5,6 +5,8 @@
 
 ## Проект делался при наличии laravel Herd
 
+npm install - composer install - первым делом
+
 ### 1. Клонирование и установка
 ```bash
 git clone https://github.com/your-repo/backend.git
